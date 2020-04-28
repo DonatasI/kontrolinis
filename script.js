@@ -1,9 +1,6 @@
 
 
 
-
-
-
 function nrnum() {
 	var sum=0;
 	var no=parseInt(document.getElementById("fnr").value);
