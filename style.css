@@ -1,0 +1,99 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #E3321D;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding: 14px 16px; 
+	font-weight: bold;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: #7952CA;
+}
+
+
+.field {
+	background-color: #AC5F5D;
+	padding: 15px;
+	color: #B7E51B;
+}
+
+header {
+	background-color: #8A1001;
+	color: #8FAD92;
+}
+
+p, h1{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+footer {
+	background-color: #7CD3E2;
+	color: #AD6127;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: right;
+	padding-top: 10px;
+}
+
+footer a {
+	text-decoration: none;
+	font-size: 19px;
+	margin-right: 2%;
+}
+
+
+
+
+
+
+
+
+li a:hover {
+	background-color: white;
+	color: black;
+}
+
+.skaic {
+	padding: 50px;
+	background-color: white;
+	margin-top: 10px;
+}
+
+.align {
+	margin-left: -3%;
+	margin-top: -3%;
+}
+
+button {
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 7px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 13px;
+	margin-top: 10px;
+}
+
+input[type=number] {
+	border: 2px solid red;
+	border-radius: 4px;
+	padding: 10px 12px;
+}
+
+h4 {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
