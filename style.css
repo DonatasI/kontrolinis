@@ -32,9 +32,10 @@ li a {
 header {
 	background-color: #8A1001;
 	color: #8FAD92;
-	padding: 5px 15px;
+	padding: 1px 15px;
 	border-radius: 13px;
 	margin-top: 7px;
+	margin-bottom: 7px;
 }
 
 p, h1{
